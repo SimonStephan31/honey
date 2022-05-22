@@ -1,5 +1,5 @@
 ---
-title: "Unsere Bienen und unser Honig"
+title: "Unsere Bienen, unser Honig"
 weight: 2
 header_menu: true
 ---

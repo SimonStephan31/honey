@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+49 17696579805](tel:+4917696579805)
 
-Get in touch!
+Sollten Sie Fragen haben, melden Sie sich gerne.
