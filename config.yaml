@@ -1,0 +1,18 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: Meenser Landhonig
+params:
+  copyright: © Sebastian Streit
+  description: Imker
+  favicon: images/favicon.ico
+  images: images/cover-image.png
+  meta:
+    keywords: Honig, Bienen, Imkerei, Meensen
+  title: Meenser Landhonig
