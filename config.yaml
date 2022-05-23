@@ -5,7 +5,7 @@ disableKinds:
   - term
   - RSS
   - robotsTXT
-defaultContentLanguage: en
+defaultContentLanguage: de
 theme: hugo-scroll
 title: Meenser Landhonig
 params:
