@@ -3,4 +3,4 @@ title: "Willkommen!"
 weight: 1
 ---
 
-Meenser Landhonig ist sehr lecker.
+Auf dieser Seite erfahren Sie alles über unseren Meenser Landhonig und unsere Bienen.
