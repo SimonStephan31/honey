@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 
-Zur Zeit besitze ich acht Bienenvölker, die sich alle in und um Meensen herum befinden.
+Zur Zeit bewirtschafte ich acht Bienenvölker, die sich alle in und um Meensen herum befinden.
 
 ![Nice picture to make you pay me ;-)](images/bee_hive1.png)
 
