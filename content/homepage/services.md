@@ -26,3 +26,5 @@ Zwei Mal im Jahr ernten wir unseren Honig. Im Frühling schleudern wir unseren F
 ## Produkte und Preise
 
 Eine Liste über unsere Produkte und Preise finden Sie [hier](services).
+
+
